@@ -1,1 +1,1 @@
-# PHP Examples
+#Some examples of in-class php labs
